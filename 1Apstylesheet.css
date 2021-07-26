@@ -120,3 +120,35 @@ iframe{
     border: steelblue 5px solid;
     border-radius: 10px;
 }
+
+
+
+
+---------------------------midia quary---------------------------------------
+
+
+@media only screen and (max-width:800px){
+    .container1{
+    background-color: rgba(45, 112, 36, 0.753);
+    position: fixed;
+    height: 30px;
+    width: 100%;
+    border-radius: 5px;
+    padding: 0 5 px;
+    margin: 1px 2px;
+}
+    
+@media only screen and (max-width: 600px){
+        text-align: center;
+     
+      .container1{
+    background-color: rgba(45, 112, 36, 0.753);
+    position: fixed;
+    height: 30px;
+    width: 100%;
+    border-radius: 5px;
+    padding: 0 5 px;
+    margin: 1px 2px;
+    }
+}
+    
